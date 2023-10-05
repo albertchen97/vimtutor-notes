@@ -6,4 +6,4 @@
 
 * Finished Lessons 2.4 to 4.4.
 * Next up: Lession 5.1
-	* ```bash 597 G ```
+	* ```597 G ```
